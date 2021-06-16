@@ -43,7 +43,7 @@ jobs:
         with:
           azcliversion: 2.0.72
           inlineScript: |
-            az storage blob upload-batch --account-name $AZURE_ACCOUNTNAME -d $AZURE_DESTINATION -s ./public
+            az storage blob upload-batch --account-name $AZURE_ACCOUNTNAME -d '$web' -s ./public
 
       - name: Purge cache
         uses: jakejarvis/cloudflare-purge-action@master
