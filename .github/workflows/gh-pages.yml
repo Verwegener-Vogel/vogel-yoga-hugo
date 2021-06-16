@@ -38,12 +38,11 @@ jobs:
       - name: Azure CLI script
         uses: azure/CLI@v1
         env:
-          AZURE_ACCOUNTNAME: ${{ secrets.AZURE_ACCOUNTNAME }}
-          AZURE_DESTINATION: ${{ secrets.AZURE_DESTINATION }}
+          AZURE_CONNECTIONSTRING: ${{ secrets.AZURE_CONNECTIONSTRING }}
         with:
           azcliversion: 2.0.72
           inlineScript: |
-            az storage blob upload-batch --account-name $AZURE_ACCOUNTNAME -d '$web' -s ./public
+            az storage blob upload-batch --connection-string $AZURE_CONNECTIONSTRING -d '$web' -s ./public
 
       - name: Purge cache
         uses: jakejarvis/cloudflare-purge-action@master
