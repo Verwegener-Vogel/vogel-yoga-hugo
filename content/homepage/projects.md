@@ -23,4 +23,4 @@ Prototype of a power-independent bird youth breeding observation station.
 
 Statistical collection of bird feeding events.
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+
