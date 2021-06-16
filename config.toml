@@ -1,4 +1,4 @@
-baseURL = "http://vogel.yoga/"
+baseURL = "https://verein.vogel.yoga/"
 languageCode = "en-us"
 title = "Vogel Yoga"
 theme = "hugo-scroll"
