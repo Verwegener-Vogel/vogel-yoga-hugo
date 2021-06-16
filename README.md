@@ -1,5 +1,8 @@
 # Static webpage for vogel.yoga
 
+![Wow](https://github.com/Verwegener-Vogel/vogel-yoga-hugo/actions/workflows/gh-pages.yml/badge.svg)
+
+
 This repository contains all resources to build the static website for vogel.yoga.
 
 ## Howto
