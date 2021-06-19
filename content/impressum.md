@@ -4,4 +4,14 @@ date: 2021-06-17T22:37:50+02:00
 ---
 
 
-Our aim is to protect the wildlife. Combining this aim with a toolkit of current technologies  this group of enthusiasts follow the aim of monitoring, reporting and observation.
+Verwegener Vogel e.V.
+Riesebusch 40e
+23611 Bad Schwartau
+
+vertreten durch
+
+Bartholomäus Dedersen
+ebenda
+
+Amtsgericht Lübeck
+Vereinsnummer: VR 4404 HL
