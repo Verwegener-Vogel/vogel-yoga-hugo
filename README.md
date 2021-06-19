@@ -14,3 +14,6 @@ git clone --recurse-submodules git@github.com:Verwegener-Vogel/vogel-yoga-hugo.g
 
 hugo server
 ```
+
+## GH Pages
+[Vogel Yoga - Find your inner bird](https://verwegener-vogel.github.io/vogel-yoga-hugo/)
