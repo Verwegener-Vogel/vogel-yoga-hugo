@@ -96,6 +96,11 @@ header_menu: true
 #fs-frm [type="reset"]:focus {
   outline: none;
 }
+#fs-frm [type="button"]:hover,
+#fs-frm [type="submit"]:hover,
+#fs-frm [type="reset"]:hover {
+  background-color: #b6b84c;
+}
 #fs-frm [type="submit"],
 #fs-frm [type="reset"] {
   margin-bottom: 0;

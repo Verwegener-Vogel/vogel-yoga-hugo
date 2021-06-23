@@ -17,3 +17,4 @@ Birding is a fascinating acitivity. You can learn so much just by observing, lis
 ### ["The Story of the Long Duck"](longduck)
 
 Our experience with a domesticated Indian Runner duck which has integrated into a group of wild mallards after fleeing from his owner. A story of personal growth in the animal kingdom.
+[Read more..](longduck)
