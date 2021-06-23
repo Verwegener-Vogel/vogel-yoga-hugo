@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Digital Projects"
 weight: 3
 header_menu: true
 ---
