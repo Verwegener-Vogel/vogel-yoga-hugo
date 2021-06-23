@@ -78,6 +78,18 @@ header_menu: true
   -webkit-appearance: button;
   -moz-appearance: button;
   appearance: button;
+  border-radius: 6px;
+  padding: 10px 20px 10px 20px;
+  position: relative;
+  margin-top: 2rem;
+  cursor: pointer;
+  font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
+  font-weight: lighter;
+  display: inline-block;
+  font-size: 16px;
+  letter-spacing: 1px;
+  margin: 0;
 }
 #fs-frm [type="button"]:focus,
 #fs-frm [type="submit"]:focus,
@@ -87,6 +99,7 @@ header_menu: true
 #fs-frm [type="submit"],
 #fs-frm [type="reset"] {
   margin-bottom: 0;
+  background: #ced067;
 }
 #fs-frm select {
   text-transform: none;
