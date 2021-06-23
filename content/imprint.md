@@ -11,3 +11,5 @@ Riesebusch 40e
   
 Registered at court Lübeck  
 Register number: VR 4404 HL
+
+All images are subject to copyright. Usage is prohibited unless with written permission.

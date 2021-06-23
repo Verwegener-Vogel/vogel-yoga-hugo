@@ -12,3 +12,4 @@ header_menu: false
 [Bylaws in German language](../Satzung.pdf)
 
 [Imprint](imprint)
+
