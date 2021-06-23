@@ -7,17 +7,14 @@ date: 2021-06-23T12:52:20+02:00
 
 ...we met with a curious creature in our local park in Northern Germany. It just appeared at one time, and so far, it thankfully hasn't left. Paddling between the other ducks in the partly frozen water, the drake presented a beautiful bluish-green sheen on its black feathers, and it seemed just a bit bigger than its mallard companions. At first, we didn't pay much attention. Of course, it looked different with its slightly longer body, but not that much as to pique our interest. 
 
-As usual, we brought some small gifts for our local winter birds. Of course, only as much as the water foul could eat and what is healthy for them (link to bird feeding site here), like a fresh handful of oats and some sunflower seeds. 
+As usual, we brought some small gifts for our local winter birds. Of course, only as much as the water foul could eat and what is healthy for them, like a fresh handful of oats and some sunflower seeds. 
 Some weeks went by, and the duck, which was also decorated with a nice white marking across its chest, continued to show up at the small lake and swam around with the others. Nothing unusual so far, the birds did their bird thing and we humans gladly helped them endure the cold with slightly more comfort in their bellies. 
-(include pic of long duck swimming)
 
 But one partly cloudy day, and it was already a bit warmer by then, we saw something peculiar on the other side of the small river that flows through the area. It really made an impression on us:
 
 The black drake emerged from the water. And it looked so different from any other duck we'd ever seen before at our park pond, that we just couldn't help but stare in awe and fascination. At first, it walked slightly hunched forward, just like a regular duck but already more upright. But then, it gained more confidence and stood straight up, walking just like a human would if he had bird shape, with its long neck stretched up, its olive green beak pointed forward, a bottle-shaped body perched atop two dark orange duck legs. What a sight it was! Especially compared to the other ducks surrounding it.
-(include pic of long duck standing)
 
 We never before had laid eyes on an indian runner duck before, or if we had, not very consciously and not in real life. We figured that this bird might have escaped from a private owner, because even though it had a ring, it was only a simple one, without any ornithological markings. 
-(include pic with ring of duck)
 
 But at that moment, we fell in love with it. We spent many hours of our free time to visit the lake and looked especially for the Long Duck, which was now officially its name.
 
@@ -47,14 +44,4 @@ Of course, he is, at least in part, a wild bird and they need be opportunistic a
 
 So, to sum it up, this Long Bird has been a constant source of joy whenever we visited him. His peculiar figure and sound, as well as watching him interact with us and the other birds, is just so special and fun. We hope that he will be around for a bit longer, as long ducks, excuse me, Indian Runner ducks, can reach up to 20 years, even though usually it is more like 12-15.
 
-Here are some more facts about Indian Runner ducks:
-
-
-
-
-
-
-
- (include pic with duck and finger)
-
- (include pic with looooong duck??) 
+Some more facts about Indian Runner ducks coming soon.
