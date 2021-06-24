@@ -24,7 +24,7 @@ The black drake emerged from the water. And it looked so different from any othe
 
 ![Long Duck Is Watching You](../images/ld2.jpg)
 
-We never before had laid eyes on an Indian runner duck before, or if we had, not very consciously and not in real life. We figured that this bird might have escaped from a private owner, because even though it had a ring, it was only a simple one, without any ornithological markings. 
+We never before had laid eyes on an Indian runner duck, or if we had, not very consciously and not in real life. We figured that this bird might have escaped from a private owner, because even though it had a ring, it was only a simple one, without any ornithological markings. 
 
 But at that moment, we fell in love with it. We spent many hours of our free time to visit the lake and looked especially for the Long Duck, which was now officially its name.
 
