@@ -16,7 +16,7 @@ But one partly cloudy day, and it was already a bit warmer by then, we saw somet
 
 {{< rawhtml >}}
 <center>
-<iframe src='https://www.xeno-canto.org/646375/embed' scrolling='no' frameborder='0' width='340' height='220'></iframe>
+<iframe src='https://www.xeno-canto.org/658850/embed?simple=1' scrolling='no' frameborder='0' width='340' height='115'></iframe>
 </center>
 {{< /rawhtml >}}
 
@@ -35,13 +35,21 @@ But here he was, an outsider because of his different appearance and larger size
 
 He never fed from our hands directly, though. Always being cautious. Of course, ducks are prey for many other wild animals, like fox, badgers and birds of prey. They need to watch their rumps! But we weren't giving up. Each visit we brought some small presents, and each time he came a bit closer. 
 
+![Long Duck Foraging Food](../images/ld3.jpg)
+
 This went on for some months, the weather got warmer, and we continued to visit this spcial bird. And after some time, we noticed something interesting: he seemed to climb the ranks of the local duck hierarchy! At first, we noticed that he sometimes asserted himself against the other ducks, chasing them a few meters, instead of the other way around. We were astonished! This had not happened before. Mostly he was the one running, though. But it was a start!
 
 Other changes appeared, as well: he seemed to gather a following. At first, it was only one other mallard seen swimming with him. To tell mallards apart is very hard, so we couldn't say for sure, but we think it might had been the same each time. Then, more ducks followed. His group grew. We might be, in part, responsible: If you are with the Long Duck, you get food. Simple rule, and every smart bird will pick up on it.
 
-![Long Duck Foraging Food](../images/ld3.jpg)
 
 So that was a good development. We learned other things, too: the runner duck drake makes a very peculiar rasping sound, a rather quite one, not so much a loud quack like the females supposedly do, but a softer, more bassy sound, that seems to come more from the back of the throat. When he is toddling towards and around us, it can be often heard and he seems to enjoy communicating in this way. We love to imitate it and confirm his statements, hopefully to his satisfaction.
+
+
+{{< rawhtml >}}
+<center>
+<iframe src='https://www.xeno-canto.org/658853/embed?simple=1' scrolling='no' frameborder='0' width='340' height='115'></iframe>
+</center>
+{{< /rawhtml >}}
 
 If he isn't very busy with rooting on the lake or spending serious bird-only time with his gang, we can also get his attention this way. Usually, if he chills on the meadow near the lake or is causally paddling around, he won't pay much attention to humans, except maybe to confirm that they don't bring dogs too closely, of which waterfoul does absolutely not approve. But, having picked up some "Duckish", we learned to call out in his direction. One second, he is just dozing in the sun, the next, wide awake, head is going up, the bird jumps to his feet and waddles towards us, constantly rasp-rasping. Instant mood bonus for us humans guaranteed, every time.
 
@@ -59,6 +67,8 @@ This behaviour, of course, fits the theory that he escaped, or was released, fro
 Of course, we are not under the illusion that he is monogamous towards us. Sometimes we see other people interacting with him, and he stands up straight just as well and looks expectantly. If they feed him, he eats. But we never saw him feed from anyones hands...
 
 Of course, he is, at least in part, a wild bird and they need be opportunistic and eat whatever is available. Also, they won't stop eating and can get sick or hurt, so we always make sure not to bring a whole lot, and that is in general a good idea when feeding wild animals. Especially in a nice park, birds will do fine on their own, and do not need a giant pile of extra food from us. We see it as a nice snack that we offer them, but not a five course menu.
+
+
 
 So, to sum it up, this Long Bird has been a constant source of joy whenever we visited him. His peculiar figure and sound, as well as watching him interact with us and the other birds, is just so special and fun. We hope that he will be around for a bit longer, as long ducks, excuse me, Indian Runner ducks, can reach up to 20 years, even though usually it is more like 12-15.
 
