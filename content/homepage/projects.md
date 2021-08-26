@@ -8,8 +8,7 @@ Our aim is to protect the wildlife. Combining this aim with a toolkit of current
 
 ---
 
-## vogl
-
+## Bird Breeding Observation
 
 
 Prototype of a power-independent bird youth breeding observation station.
@@ -27,7 +26,7 @@ The next level is the detection of individual birds to count their recurrent fee
 
 ---
 
-## Bird Feed Counter 3000
+## Automatic Bird Feeding Counter
 
 
 Statistical collection of bird feeding events.
