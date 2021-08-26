@@ -9,10 +9,19 @@ weight: 2
 header_menu: true
 ---
 
-Birding is a fascinating acitivity. You can learn so much just by observing, listening and spending time with nature. 
+Birding is a fascinating activity. You can learn so much just by observing, listening and spending time with nature. 
 
 ---
 
+
+### ["Owls in the Dark"](tawnyowl)
+
+Did you ever wonder what strange sounds you may hear next to forests?
+Well, nobody can tell for sure but probably you will hear the call of the
+[Tawny Owl](tawnyowl)
+
+
+[Read more..](longduck)
 
 ### ["The Story of the Long Duck"](longduck)
 
