@@ -21,8 +21,6 @@ Well, nobody can tell for sure but probably you will hear the call of the
 [Tawny Owl](tawnyowl)
 
 
-[Read more..](longduck)
-
 ### ["The Story of the Long Duck"](longduck)
 
 Our experience with a domesticated Indian Runner duck which has integrated into a group of wild mallards after fleeing from his owner. A story of personal growth in the animal kingdom.
