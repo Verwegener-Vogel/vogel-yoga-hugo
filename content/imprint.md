@@ -16,9 +16,9 @@ Vorstand/President: Bartholomäus Dedersen
 Inhaltlich verantwortlich gem. § 18 Abs. 2 MStV:  
 Verwegener Vogel e.V.  
 c/o Bartholomäus Dedersen  
-Riesbusch 40e  
+Riesebusch 40e  
 23611 Bad Schwartau  
 
-All images are subject to copyright. Usage is prohibited unless with written permission.
+All images are subject to copyright if not explicitly stated. 
 
 [Datenschutzerklärung](../datenschutz)
