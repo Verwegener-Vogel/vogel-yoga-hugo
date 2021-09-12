@@ -18,10 +18,15 @@ Birding is a fascinating activity. You can learn so much just by observing, list
 
 Did you ever wonder what strange sounds you may hear next to forests?
 Well, nobody can tell for sure but probably you will hear the call of the
-[Tawny Owl](tawnyowl)
+[Tawny Owl](tawnyowl).
 
 
 ### ["The Story of the Long Duck"](longduck)
 
 Our experience with a domesticated Indian Runner duck which has integrated into a group of wild mallards after fleeing from his owner. A story of personal growth in the animal kingdom.
 [Read more..](longduck)
+
+### ["Bird feeds Bird - but should You, too?"](birdfeeding)
+
+Feeding waterfowl in the park, like ducks, geese or swans, can be a wonderful thing to do. It is just so fun, relaxing and interesting to interact with them in this way. But is it really a good idea? And if yes, what can I give to my feathered friends? A discussion. 
+[Read more..](birdfeeding)
