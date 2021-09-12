@@ -52,6 +52,8 @@ Maybe the most important: feed the right thing
 -------------
  Bread is controversial - but actually, many farmers feed their lifestock grain. Bread is basically grains with some salt, and possible other additives like yeast. So it is not exactly pure poison for the birds. If you give them bread, give it in small portions, so that they can drink enough water to get it down and not suffocate because it swells in their throats. Especially the young ones need protein to grow. This is also a reason why you should never drown them in duck fast food.
 
+ ![Longduck in water](../images/duck_5.jpg)
+
 **What is better than bread?**
 Waterfowl, and especially ducks are used to soft, watery food, because they often grub underwater. If you want to feed grains, it is much better to use:
 * oats 
