@@ -11,8 +11,6 @@ E-Mail: verein@vogel.yoga
 Registered at court Lübeck  
 Register number: VR 4404 HL
 
-Vorstand/President: Bartholomäus Dedersen
-
 Inhaltlich verantwortlich gem. § 18 Abs. 2 MStV:  
 Verwegener Vogel e.V.  
 23611 Bad Schwartau  
