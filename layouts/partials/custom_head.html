@@ -13,8 +13,31 @@
           margin-bottom: 0rem;
           text-align: center;
           color: #fff;
+          --cover-title-text-shadow: none; /* Removed shadow, using frosted glass background instead */
           background: #017d1d no-repeat center center;
           background-size: cover;
+     }
+
+     /* Smart Design Element: Glassmorphism / Frosted Glass for text readability */
+     #site-head-content {
+          opacity: 0; /* Hidden initially per user request */
+          transform: translateY(15px);
+          transition: opacity 1.5s ease-out, transform 1.5s ease-out;
+          
+          /* Elegant Frosted Glass Effect */
+          background-color: rgba(1, 125, 29, 0.25) !important; /* Theme green with high transparency */
+          backdrop-filter: blur(8px);
+          -webkit-backdrop-filter: blur(8px);
+          border: 1px solid rgba(255, 255, 255, 0.15);
+          box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+          border-radius: 16px;
+          padding: 2.5rem 2rem !important; /* Add some padding so content breathes within glass */
+     }
+
+     /* The class triggered by Javascript to reveal the text */
+     #site-head-content.is-revealed {
+          opacity: 1;
+          transform: translateY(0);
      }
 
 
@@ -43,7 +66,7 @@
      }
 
      /* Content / Sections */
-     .post-holder.odd {
+     .post-holder.dark {
           background: #017d1d;
           color: white;
      }

@@ -1,0 +1,51 @@
+<!-- A partial to be overwritten by the user.
+     Simply place a custom_body.html into
+     your local /layouts/partials-directory.
+     Its content will appear before the closing </body>-tag -->
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    let revealed = false;
+    
+    // Function to reveal the box
+    function revealGuard() {
+        if (revealed) return;
+        const guard = document.querySelector('#site-head-content');
+        if (guard) {
+            guard.classList.add('is-revealed');
+        }
+        revealed = true;
+        
+        // Clean up event listeners after revealing
+        document.removeEventListener('scroll', handleInteraction);
+        document.removeEventListener('wheel', handleInteraction);
+        document.removeEventListener('touchstart', handleInteraction);
+        document.removeEventListener('keydown', handleKeyInteraction);
+    }
+
+    // 1. Automatically reveal after 5 seconds (5000ms)
+    let timerId = setTimeout(revealGuard, 5000);
+
+    // 2. Reveal immediately on scrolling or touch interaction
+    function handleInteraction() {
+        if (!revealed) {
+            clearTimeout(timerId); // Stop the 5-second timer
+            revealGuard();
+        }
+    }
+
+    // 3. Reveal immediately on scrolling keys
+    function handleKeyInteraction(e) {
+        const scrollKeys = ['ArrowDown', 'ArrowUp', 'PageDown', 'PageUp', ' ', 'End', 'Home'];
+        if (scrollKeys.includes(e.key)) {
+            handleInteraction();
+        }
+    }
+
+    // Listen for scroll, mouse wheel, or touch to cover scrolling actions
+    document.addEventListener('scroll', handleInteraction);
+    document.addEventListener('wheel', handleInteraction);
+    document.addEventListener('touchstart', handleInteraction);
+    document.addEventListener('keydown', handleKeyInteraction);
+});
+</script>
