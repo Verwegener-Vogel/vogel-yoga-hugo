@@ -63,7 +63,7 @@ But, to finish the point I was making: after a long period of getting to know ea
 
 ---
 
-**Update: Please also have a look at our post about [feeding waterfowl](https://verein.vogel.yoga/birdfeeding)!**
+**Update: Please also have a look at our post about [feeding waterfowl]({{< ref "birdfeeding" >}})!**
 
 This behaviour, of course, fits the theory that he escaped, or was released, from a human owner. After some initial getting to know, he is now much more comfortable in our presence, and also runs around us and in general just behaves like a happy duck.
 Of course, we are not under the illusion that he is monogamous towards us. Sometimes we see other people interacting with him, and he stands up straight just as well and looks expectantly. If they feed him, he eats. But we never saw him feed from anyones hands...
