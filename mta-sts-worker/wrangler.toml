@@ -1,0 +1,7 @@
+name = "mta-sts-vogel-yoga"
+main = "src/index.js"
+compatibility_date = "2024-02-28"
+
+[[routes]]
+pattern = "mta-sts.vogel.yoga/*"
+custom_domain = true

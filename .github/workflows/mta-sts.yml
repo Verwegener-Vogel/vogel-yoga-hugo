@@ -1,0 +1,35 @@
+name: Deploy MTA-STS Worker and Update DNS
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Deploy Worker
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_TOKEN }}
+          workingDirectory: 'mta-sts-worker'
+
+      - name: Update DNS Records
+        env:
+          CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
+          CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
+        run: |
+          echo "Updating _mta-sts TXT record..."
+          ID=$(date -u +"%Y%m%d%H%M%S")Z
+          curl -s -X POST "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE/dns_records" \
+            -H "Authorization: Bearer $CLOUDFLARE_TOKEN" \
+            -H "Content-Type: application/json" \
+            --data "{\"type\":\"TXT\",\"name\":\"_mta-sts.vogel.yoga\",\"content\":\"v=STSv1; id=$ID\",\"ttl\":1}"
+            
+          echo "Updating _smtp._tls TXT record..."
+          curl -s -X POST "https://api.cloudflare.com/client/v4/zones/$CLOUDFLARE_ZONE/dns_records" \
+            -H "Authorization: Bearer $CLOUDFLARE_TOKEN" \
+            -H "Content-Type: application/json" \
+            --data "{\"type\":\"TXT\",\"name\":\"_smtp._tls.vogel.yoga\",\"content\":\"v=TLSRPTv1; rua=mailto:postmaster@vogel.yoga\",\"ttl\":1}"
