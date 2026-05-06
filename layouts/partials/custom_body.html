@@ -49,3 +49,88 @@ document.addEventListener("DOMContentLoaded", function() {
     document.addEventListener('keydown', handleKeyInteraction);
 });
 </script>
+
+<!-- CookieConsent JS -->
+<script src="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.umd.js"></script>
+<script>
+    CookieConsent.run({
+        guiOptions: {
+            consentModal: {
+                layout: 'cloud inline',
+                position: 'bottom center',
+            },
+            preferencesModal: {
+                layout: 'box',
+            }
+        },
+        categories: {
+            necessary: {
+                enabled: true,
+                readOnly: true
+            },
+            analytics: {}
+        },
+        language: {
+            default: 'en',
+            autoDetect: 'browser',
+            translations: {
+                en: {
+                    consentModal: {
+                        title: 'We use cookies',
+                        description: 'We use tracking cookies to understand how you use the website and help us improve it.',
+                        acceptAllBtn: 'Accept All',
+                        acceptNecessaryBtn: 'Reject All',
+                        showPreferencesBtn: 'Manage Preferences'
+                    },
+                    preferencesModal: {
+                        title: 'Manage Cookie Preferences',
+                        acceptAllBtn: 'Accept All',
+                        acceptNecessaryBtn: 'Reject All',
+                        savePreferencesBtn: 'Save Preferences',
+                        closeIconLabel: 'Close',
+                        sections: [
+                            {
+                                title: 'Strictly Necessary Cookies',
+                                description: 'These cookies are essential for the proper functioning of the website.',
+                                linkedCategory: 'necessary'
+                            },
+                            {
+                                title: 'Analytics Cookies',
+                                description: 'These cookies collect information about how you use our website to help us improve.',
+                                linkedCategory: 'analytics'
+                            }
+                        ]
+                    }
+                },
+                de: {
+                    consentModal: {
+                        title: 'Wir verwenden Cookies',
+                        description: 'Wir verwenden Analyse-Cookies, um zu verstehen, wie Sie die Website nutzen, und um sie zu verbessern.',
+                        acceptAllBtn: 'Alle akzeptieren',
+                        acceptNecessaryBtn: 'Alle ablehnen',
+                        showPreferencesBtn: 'Einstellungen verwalten'
+                    },
+                    preferencesModal: {
+                        title: 'Cookie-Einstellungen verwalten',
+                        acceptAllBtn: 'Alle akzeptieren',
+                        acceptNecessaryBtn: 'Alle ablehnen',
+                        savePreferencesBtn: 'Einstellungen speichern',
+                        closeIconLabel: 'Schließen',
+                        sections: [
+                            {
+                                title: 'Notwendige Cookies',
+                                description: 'Diese Cookies sind für das ordnungsgemäße Funktionieren der Website unerlässlich.',
+                                linkedCategory: 'necessary'
+                            },
+                            {
+                                title: 'Analyse-Cookies',
+                                description: 'Diese Cookies sammeln Informationen darüber, wie Sie unsere Website nutzen, um sie zu verbessern.',
+                                linkedCategory: 'analytics'
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    });
+</script>
