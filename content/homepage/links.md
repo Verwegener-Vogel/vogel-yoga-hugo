@@ -13,8 +13,8 @@ header_menu: false
 {{< rawhtml >}}
 <div class="support-vogel">
   <p class="support-text">If you enjoy bird watching or find peace in our flock, consider supporting us with some birdseed.</p>
-  <a href="https://ko-fi.com/theblackcaptain" target="_blank" rel="noopener" class="kofi-button">
-    <span class="kofi-icon">🐦</span> Buy us some Birdseed
+  <a href="https://contribee.com/en/vogelyoga" target="_blank" rel="noopener" class="support-button">
+    <span class="support-icon">🐦</span> Buy us some Birdseed
   </a>
 </div>
 {{< /rawhtml >}}
