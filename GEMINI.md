@@ -25,5 +25,6 @@ Welcome to the Vogel Yoga website repository. Here are some technical notes and 
 - **Build System:** Production builds are handled natively by Cloudflare Pages directly from the GitHub repository (not via Wrangler).
 - **Environment Variables:** Because the `hugo-scroll` theme requires Hugo Extended (>= v0.132.0), the Cloudflare Pages project must have the `HUGO_VERSION` environment variable set to `0.132.0` (or higher) to ensure successful builds.
 - **Local Testing:** Local test builds should utilize Wrangler (if configured) or the provided Podman `Containerfile`.
+- **MANDATORY:** Always commit and push your changes to the `master` branch immediately after completing any new feature or bug fix.
 
 *Let the birds fly!*

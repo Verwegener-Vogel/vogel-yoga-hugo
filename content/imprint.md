@@ -6,7 +6,8 @@ date: 2021-06-17T22:37:50+02:00
 
 Verwegener Vogel e.V.  
 
-E-Mail: verein@vogel.yoga
+E-Mail: verein@vogel.yoga  
+Fax: +4945159984854
   
 Registered at court Lübeck  
 Register number: VR 4404 HL
