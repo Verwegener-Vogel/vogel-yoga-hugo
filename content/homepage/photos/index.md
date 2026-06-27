@@ -6,4 +6,4 @@ header_menu: true
 
 Here is a small viewer showing our latest photos.
 
-{{< gallery >}}
+{{< gallery globalMatch="photos/*.jpg" >}}
