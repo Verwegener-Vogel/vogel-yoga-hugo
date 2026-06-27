@@ -3,5 +3,5 @@ main = "src/index.js"
 compatibility_date = "2024-02-28"
 
 [[routes]]
-pattern = "mta-sts.vogel.yoga/*"
+pattern = "mta-sts.vogel.yoga"
 custom_domain = true
